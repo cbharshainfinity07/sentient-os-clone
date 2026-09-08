@@ -2,13 +2,15 @@
 
 > An authentic, pixel-perfect clone of [sentient-os.ai](https://sentient-os.ai) built from the ground up using **React 19**, **TypeScript**, **Framer Motion**, and **Tailwind CSS v4**.
 
+🔗 **Live Demo:** [https://sentient-clone.vercel.app/](https://sentient-clone.vercel.app/)
+
 ![Sentient OS Preview](./public/hero.jpg)
 
+[![Live Demo](https://img.shields.io/badge/Demo-sentient--clone.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://sentient-clone.vercel.app/)
 [![React 19](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.2-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4.3-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-13.2-0055FF?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 
 ---
